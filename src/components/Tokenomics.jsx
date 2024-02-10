@@ -1,6 +1,6 @@
 import React from 'react'
 import CenterDino from '../assets/images/dinotoke.webp'
-import Chart from '../assets/images/Halfchart.webp'
+import Chart from '../assets/images/HalfChart.webp'
 import completeChart from '../assets/images/completechart.webp'
 import Roadmap from '../assets/images/ChartRoadmap.webp'
 import cloudShadow from '../assets/images/TokenShadow.webp'
